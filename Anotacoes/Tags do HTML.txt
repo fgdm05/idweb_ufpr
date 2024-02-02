@@ -1,0 +1,21 @@
+Tags do HTML
+
+<head> Cabeçalho ou cabeça: contém aquilo 
+que não aparece para o usuário, ou seja, a 
+estilização do conteúdo, ou o que se deseja 
+especificar para o navegador.
+<body> Corpo: contém aquilo que é apresentado 
+ao usuário, ou seja, o conteúdo.
+<!DOCTYPE html>: informa ao navegador a versão 
+do HTML
+<meta charset="UTF-8">: permite a 
+compatilibidade com caracteres latino americano.
+<title>: define o título do seu ite, ou seja, 
+o que vai aparecer na aba do seu navegador.
+<h1>-<h6>: são utilizadas para adicionar um 
+título e seus subtítulos no documento html.
+<ul>: cria uma lista de elementos não ordenados.
+<p>: compõe um parágrafo.
+<li>: são os elementos de uma lista, podendo 
+ou não ser ordenada.
+

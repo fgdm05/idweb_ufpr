@@ -1,0 +1,19 @@
+Conceitos
+
+Conceito de servidor e cliente:
+
+De acordo com mozilla.org (2019) um Servidor 
+web - hardware é um computador que armazena os 
+arquivos de uma página web. Para que esses 
+arquivos sejam disponibilizados para as 
+aplicações clientes, este computador deve ter 
+instalado um servidor web - software que 
+inclui componentes que gerenciam como os 
+clientes acessam os arquivos. O servidor web 
+deve ter um servidor HTTP, ou seja, um servidor 
+que compreende URLs - Uniform Resource Locator 
+(endereços web) e o protocolo de comunicação 
+entre o cliente e o servidor web.
+
+Exemplos de servidores Web: Apache, Node.js, 
+LiteSpeed, Google Servers, Tomcat...
